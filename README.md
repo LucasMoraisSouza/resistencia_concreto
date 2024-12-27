@@ -21,4 +21,9 @@
 
 https://github.com/user-attachments/assets/d7f82064-e375-4d47-b28d-d7b8f63da176
 
+---
+
+***Caso queira acessar a ferramenta que está online na rede para realizar testes, basta clicar no link abaixo para ser direcionado para o aplicativo.***
+
+https://resistencia-concreto.onrender.com
 
